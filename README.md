@@ -8,8 +8,7 @@
 
 ## 📹 Presentation Video
 
-> 🎬 **([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1hZUf18d3AF41xM754aHz9wCVzMvbcIET/view?usp=drive_link))**
-
+🎬 **[▶ Watch the Presentation Video](https://drive.google.com/file/d/1hZUf18d3AF41xM754aHz9wCVzMvbcIET/view?usp=drive_link)**
 ---
 
 ## 👥 Team Members
