@@ -348,5 +348,5 @@ Low-power IoT communication is fundamentally about **matching energy cost to dat
 ---
 
 <p align="center">
-  <sub>Computer Networks · Low-Power IoT Communication · Team Project</sub>
+  <sub>Computer Networks · Low-Power IoT Communication · Group 5</sub>
 </p>
