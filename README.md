@@ -1,14 +1,11 @@
 [README.md](https://github.com/user-attachments/files/28872879/README.md)
 # Low-Power IoT Communication: Core Technologies & Selection Strategy
 
-> **Computer Networks Presentation — Group 5**  
-> *How IoT systems reduce energy through protocol choice, communication scheduling, and system-level design.*
+### *How IoT systems reduce energy through protocol choice, communication scheduling, and system-level design.*
+> **Course:** Computer Networks (DCCS 307)  
+> **Team:** Group 5  
+> **Presentation Video:** [📹 Watch here](https://drive.google.com/file/d/1hZUf18d3AF41xM754aHz9wCVzMvbcIET/view?usp=drive_link)
 
----
-
-## 📹 Presentation Video
-
-> [▶ Watch the Presentation Video](https://drive.google.com/file/d/1hZUf18d3AF41xM754aHz9wCVzMvbcIET/view?usp=drive_link)
 ---
 
 ## 👥 Team Members
